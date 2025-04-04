@@ -125,7 +125,7 @@ else{
 <body>
     <nav>
         <div class="right">
-            <a class="fs-6 text-dark" href="cdtable.php"><i class="fa-solid fa-table"></i> Main Table</a>
+            <a class="fs-6 text-dark" href="index.php"><i class="fa-solid fa-table"></i> Main Table</a>
             <a class="fs-6 text-dark" href="cdtable2.php"><i class="fa-solid fa-pen-to-square"></i> Edit</a>
             <a class="fs-6 text-dark" href="cdtable3.php"><i class="fa-solid fa-trash"></i> Delete</a>
             <a class="fs-6 text-dark" href="insert1.php"><i class="fa-solid fa-file-import"></i> Insert</a>
